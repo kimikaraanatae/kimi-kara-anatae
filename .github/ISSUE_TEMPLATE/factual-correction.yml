@@ -1,0 +1,45 @@
+name: 事実訂正
+# GitHub Issue Form: description/body are required top-level keys.
+description: 公開資料の事実・出典・リンク等の訂正を提案する
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        個人住所、家族情報、未公開情報、皇族本人の内心推測は記載しないでください。
+        非公開資料は公開Issueへ添付せず、CONTACT.mdの公開連絡先を利用してください。
+  - type: input
+    id: target
+    attributes:
+      label: 対象資料・記事
+      placeholder: A001 v1.0 / P0-01 v0.1.1 など
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 対象箇所
+      placeholder: 見出し、段落、ページ、セル等
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: 問題と提案する修正
+      description: 現在の記述、問題点、提案する修正を分けて記載してください。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 根拠・出典
+      description: URL、書誌、条文、ページ等
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 安全確認
+      options:
+        - label: 個人住所、家族情報、未公開情報、内心推測を含んでいません
+          required: true
