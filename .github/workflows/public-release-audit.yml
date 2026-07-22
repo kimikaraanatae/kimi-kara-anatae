@@ -1,0 +1,22 @@
+name: Public release audit
+on:
+  push:
+  pull_request:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r tools/requirements-audit.txt
+      - name: Audit public repository
+        env:
+          PUBLIC_CONTACT_EMAIL: ${{ vars.PUBLIC_CONTACT_EMAIL }}
+        run: |
+          args=(python tools/audit_public_release.py --root . --report "$RUNNER_TEMP/PUBLIC_RELEASE_AUDIT.json")
+          if [ -n "$PUBLIC_CONTACT_EMAIL" ]; then
+            args+=(--allow-email "$PUBLIC_CONTACT_EMAIL")
+          fi
+          "${args[@]}"
