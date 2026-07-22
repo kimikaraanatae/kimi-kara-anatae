@@ -1,0 +1,27 @@
+# local/private
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
+.pytest_cache/
+
+# work products that must not enter the public release repository
+_work/
+_private/
+_drafts/
+review/
+logs/
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# audit reports must remain outside the release repository
+PUBLIC_RELEASE_AUDIT*.json
+PUBLICATION_AUDIT*.json
+audit_reports/
