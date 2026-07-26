@@ -1,6 +1,6 @@
 {
   "article_id": "A001",
-  "version": "v1.0",
+  "version": "v1.1",
   "title": "君から、あなたへ――このメディアが目指すもの",
   "publication_status": "published",
   "public_state": "公開ベータ",
@@ -12,14 +12,16 @@
   "published_at": "2026-07-22T23:43:00+09:00",
   "published_at_displayed": "2026年7月22日 23:43",
   "published_at_precision": "minute",
-  "archived_at": "2026-07-22T15:12:23+00:00",
-  "snapshot": "v1.0.md",
-  "article_body_sha256": "c3b027b4789694cafff84371263554df25dab58ea69db533694ae6f1d4e8c85c",
-  "snapshot_sha256": "1f2a83f29825dc1f9602486fbe9b42b751b77e8d9165d98ffe55f7876c8450ef",
+  "updated_on": "2026-07-25",
+  "archived_at": "2026-07-25T15:45:50+00:00",
+  "snapshot": "v1.1.md",
+  "article_body_sha256": "afd7c5d24a5f5bd386bcbe29adad1ec4292aa0dd3b5ff0980ad8adec32f35b2b",
+  "snapshot_sha256": "28f72fabe90a1d2a15c9caf2826142bcdd564c96f4c7d4fea7c0984d6a64634f",
   "hashtags": [
     "天皇制",
     "象徴天皇制",
     "君からあなたへ"
   ],
-  "source": "published_note_page"
+  "source": "published_note_page_verified_against_approved_replacement",
+  "change_summary": "主要用語「日本の精神的成人式」の定義を追加。主張・結論の変更なし。"
 }

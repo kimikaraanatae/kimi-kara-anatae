@@ -1,0 +1,27 @@
+{
+  "article_id": "A002",
+  "version": "v1.0",
+  "title": "これは、きれいごとなのか――この構想に潜む四つの欺瞞",
+  "publication_status": "published",
+  "public_state": "公開ベータ",
+  "article_type": "basic_document",
+  "article_type_label": "基本文書",
+  "primary_magazine": "このメディアについて",
+  "subtype": "自己検証",
+  "note_url": "https://note.com/kimi_kara_anatae/n/n296939a4473d",
+  "published_at": "2026-07-25T09:05:00+09:00",
+  "published_at_displayed": "2026年7月25日 09:05",
+  "published_at_precision": "minute",
+  "archived_at": "2026-07-25T15:45:50+00:00",
+  "snapshot": "v1.0.md",
+  "article_body_sha256": "be7bfe68e54681beb8f7c8aae50f7298b02645ea4b7c662ab55918e47f29d0af",
+  "snapshot_sha256": "2304b26ede4b1dde28a325c8f1e282f9f896ac1fbdbffeb572dc7b80a6705260",
+  "hashtags": [
+    "皇室",
+    "天皇制",
+    "象徴天皇制",
+    "自己検証",
+    "君からあなたへ"
+  ],
+  "source": "published_note_page_verified_against_approved_body"
+}
