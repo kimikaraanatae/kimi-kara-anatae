@@ -1,0 +1,27 @@
+{
+  "article_id": "A003",
+  "version": "v1.0",
+  "title": "なぜ、一つの家族だけが日本を背負い続けるのか",
+  "publication_status": "published",
+  "public_state": "公開ベータ",
+  "article_type": "essay",
+  "article_type_label": "論考",
+  "primary_magazine": "論考",
+  "subtype": "中心論考",
+  "note_url": "https://note.com/kimi_kara_anatae/n/nfd5307c1fb12",
+  "published_at": "2026-07-27T02:40:00+09:00",
+  "published_at_displayed": "2026年7月27日 02:40",
+  "published_at_precision": "minute",
+  "archived_at": "2026-07-26T17:53:38+00:00",
+  "snapshot": "v1.0.md",
+  "article_body_sha256": "3fff6b8c782481bd1abf25f0cda8f2aa1e793ec37dc0ff4d61d2fd6eb82e96a0",
+  "snapshot_sha256": "3dcb77b8e2059dc12e9951e131a7c1467605e2bdfd210e7138219b7fbffd8966",
+  "hashtags": [
+    "皇室",
+    "天皇制",
+    "象徴天皇制",
+    "立憲君主制",
+    "君からあなたへ"
+  ],
+  "source": "published_note_page_verified_against_approved_body"
+}
