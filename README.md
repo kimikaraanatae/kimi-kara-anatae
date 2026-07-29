@@ -18,6 +18,7 @@ noteは記事本文の読者向け最新版です。公開前の記事本文はn
 | A001 | 君から、あなたへ――このメディアが目指すもの | [note](https://note.com/kimi_kara_anatae/n/n0fabb15fdcac) | [v1.1](articles/A001/v1.1.md) |
 | A002 | これは、きれいごとなのか――この構想に潜む四つの欺瞞 | [note](https://note.com/kimi_kara_anatae/n/n296939a4473d) | [v1.0](articles/A002/v1.0.md) |
 | A003 | なぜ、一つの家族だけが日本を背負い続けるのか | [note](https://note.com/kimi_kara_anatae/n/nfd5307c1fb12) | [v1.0](articles/A003/v1.0.md) |
+| A005 | 女性天皇を支持しながら、なぜ制度の解消を考えるのか | [note](https://note.com/kimi_kara_anatae/n/n2455e4d5ec6d) | [v1.0](articles/A005/v1.0.md) |
 
 ## 記事の読み方
 

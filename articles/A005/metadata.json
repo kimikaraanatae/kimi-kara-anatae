@@ -1,0 +1,27 @@
+{
+  "article_id": "A005",
+  "version": "v1.0",
+  "title": "女性天皇を支持しながら、なぜ制度の解消を考えるのか",
+  "publication_status": "published",
+  "public_state": "公開ベータ",
+  "article_type": "essay",
+  "article_type_label": "論考",
+  "primary_magazine": "論考",
+  "subtype": "改革と解消の両立",
+  "note_url": "https://note.com/kimi_kara_anatae/n/n2455e4d5ec6d",
+  "published_at": "2026-07-29T09:29:00+09:00",
+  "published_at_displayed": "2026年7月29日 09:29",
+  "published_at_precision": "minute",
+  "archived_at": "2026-07-29T00:41:23+00:00",
+  "snapshot": "v1.0.md",
+  "article_body_sha256": "d6b924a8a196e2774db43b6a461e0ea92c05e59f4381885459c3626c3b124f28",
+  "snapshot_sha256": "cdf9fd45c157459950fa1769ec36dcfa585150a9f4af58557d1726901ad0c53f",
+  "hashtags": [
+    "皇位継承",
+    "天皇制",
+    "女性天皇",
+    "象徴天皇制",
+    "君からあなたへ"
+  ],
+  "source": "published_note_page_verified_against_approved_body"
+}
