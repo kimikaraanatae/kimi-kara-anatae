@@ -1,0 +1,41 @@
+{
+  "article_id": "A009",
+  "version": "v1.0",
+  "title": "天皇制を終えると、日本は何を失うのか",
+  "publication_status": "published",
+  "public_state": "公開ベータ",
+  "article_type": "essay",
+  "article_type_label": "論考",
+  "primary_magazine": "論考",
+  "subtype": "損失評価",
+  "note_url": "https://note.com/kimi_kara_anatae/n/n1d57aeb8b078",
+  "published_at": "2026-07-30T16:14:00+09:00",
+  "published_at_displayed": "2026年7月30日 16:14",
+  "published_at_precision": "minute",
+  "archived_at": "2026-07-30T07:46:23+00:00",
+  "snapshot": "v1.0.md",
+  "article_body_sha256": "3b55ac6f8bf4feb641bb5e0a159e9b8c27c10d92a8ce8128baf4faffbde51f56",
+  "snapshot_sha256": "d1726eddd00d7a557cf9840bdf9bd1dff355229a53e3174bc5872f253dbe4e26",
+  "hashtags": [
+    "民主主義",
+    "日本社会",
+    "皇室",
+    "制度設計",
+    "天皇制",
+    "象徴天皇制",
+    "君からあなたへ"
+  ],
+  "inline_image": {
+    "source_filename": "A009_本文中整理図_v1.0_2400x1800.png",
+    "sha256": "83bcb8e1787f34d61ebfa600ca3aa49edcda3ae8e8935f7d73f2aaf8f6c4943d",
+    "width": 2400,
+    "height": 1800,
+    "format": "PNG",
+    "color_mode": "RGB",
+    "caption": "五つの喪失候補を、三つの扱い方で見る",
+    "placement": "「移せるもの、形を変えて残せるもの、失われるもの」節の導入文直後",
+    "stored_in_repository": false,
+    "note": "note配信画像ではなく採用原本の情報"
+  },
+  "source": "published_note_page_verified_against_approved_body"
+}
