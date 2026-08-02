@@ -19,7 +19,7 @@ noteは記事本文の読者向け最新版です。公開前の記事本文はn
 | A002 | これは、きれいごとなのか――この構想に潜む四つの欺瞞 | [note](https://note.com/kimi_kara_anatae/n/n296939a4473d) | [v1.0](articles/A002/v1.0.md) |
 | A003 | なぜ、一つの家族だけが日本を背負い続けるのか | [note](https://note.com/kimi_kara_anatae/n/nfd5307c1fb12) | [v1.0](articles/A003/v1.0.md) |
 | A005 | 女性天皇を支持しながら、なぜ制度の解消を考えるのか | [note](https://note.com/kimi_kara_anatae/n/n2455e4d5ec6d) | [v1.0](articles/A005/v1.0.md) |
-| A009 | 天皇制を終えると、日本は何を失うのか | [note](https://note.com/kimi_kara_anatae/n/n1d57aeb8b078) | [v1.0](articles/A009/v1.0.md) |
+| A009 | 天皇制を終えると、日本は何を失うのか | [note](https://note.com/kimi_kara_anatae/n/n1d57aeb8b078) | [v1.1](articles/A009/v1.1.md) |
 | A004 | 天皇制を終えたあと、祭祀や皇室文化まで終える必要はあるのか | [note](https://note.com/kimi_kara_anatae/n/n5f3f4e3477a3) | [v1.0](articles/A004/v1.0.md) |
 
 ## 記事の読み方

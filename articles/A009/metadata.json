@@ -1,6 +1,6 @@
 {
   "article_id": "A009",
-  "version": "v1.0",
+  "version": "v1.1",
   "title": "天皇制を終えると、日本は何を失うのか",
   "publication_status": "published",
   "public_state": "公開ベータ",
@@ -12,10 +12,11 @@
   "published_at": "2026-07-30T16:14:00+09:00",
   "published_at_displayed": "2026年7月30日 16:14",
   "published_at_precision": "minute",
-  "archived_at": "2026-07-30T07:46:23+00:00",
-  "snapshot": "v1.0.md",
-  "article_body_sha256": "3b55ac6f8bf4feb641bb5e0a159e9b8c27c10d92a8ce8128baf4faffbde51f56",
-  "snapshot_sha256": "d1726eddd00d7a557cf9840bdf9bd1dff355229a53e3174bc5872f253dbe4e26",
+  "updated_on": "2026-08-02",
+  "archived_at": "2026-08-02T05:48:11+00:00",
+  "snapshot": "v1.1.md",
+  "article_body_sha256": "21a8c9fe0f5fec171e2c3aed878a199e011e61a87478bda97785dc7f69a05167",
+  "snapshot_sha256": "3f3c9b893a598e7a0ea274fc198a97087a643f8f3f0391085d22592f670214fc",
   "hashtags": [
     "民主主義",
     "日本社会",
@@ -37,5 +38,6 @@
     "stored_in_repository": false,
     "note": "note配信画像ではなく採用原本の情報"
   },
-  "source": "published_note_page_verified_against_approved_body"
+  "source": "published_note_page_verified_link_update",
+  "change_summary": "A004公開に伴い、記事タイトルを公開URLへリンク。主張・結論の変更なし。"
 }
