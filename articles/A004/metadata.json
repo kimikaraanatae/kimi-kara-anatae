@@ -1,0 +1,66 @@
+{
+  "article_id": "A004",
+  "version": "v1.0",
+  "title": "天皇制を終えたあと、祭祀や皇室文化まで終える必要はあるのか",
+  "publication_status": "published",
+  "public_state": "Research Beta",
+  "research_id": "P0-01",
+  "article_type": "research_note",
+  "article_type_label": "公開研究ノート",
+  "primary_magazine": "公開研究ノート",
+  "subtype": "予備調査",
+  "note_url": "https://note.com/kimi_kara_anatae/n/n5f3f4e3477a3",
+  "published_at": "2026-08-02T02:04:00+09:00",
+  "published_at_displayed": "2026年8月2日 02:04",
+  "published_at_precision": "minute",
+  "archived_at": "2026-08-02T04:50:15+00:00",
+  "snapshot": "v1.0.md",
+  "article_body_sha256": "fc6c08edb93d30e33802b974301c9c3ffb68a08bca63b5a96d960d6672773c9a",
+  "snapshot_sha256": "00677e396109789115ee9e706215f130688957037b4c6060d834641cb708939e",
+  "hashtags": [
+    "天皇制",
+    "象徴天皇制",
+    "宮中祭祀",
+    "皇室文化",
+    "君からあなたへ"
+  ],
+  "inline_images": [
+    {
+      "source_filename": "A004_本文中整理図1_三つの対象と横断条件_v1.0_2400x1800.png",
+      "sha256": "98e12dc892ea8bb6b1323fa73d83b87ca39049a44b90d9195ea02dcf16765a63",
+      "width": 2400,
+      "height": 1800,
+      "format": "PNG",
+      "color_mode": "RGB",
+      "caption": "三つの対象と、すべてに関わる一つの横断条件",
+      "placement": "「三つの対象と、一つの横断条件に分ける」節の末尾",
+      "stored_in_repository": false,
+      "note": "note配信画像ではなく採用原本の情報"
+    },
+    {
+      "source_filename": "A004_本文中整理図3_公開台帳24対象の全体像_v1.0_2400x1800.png",
+      "sha256": "faf46b62bef43370bb0fff1d904e5c267f062e5fd862261209c8c5a337a4c044",
+      "width": 2400,
+      "height": 1800,
+      "format": "PNG",
+      "color_mode": "RGB",
+      "caption": "24項目の全体像",
+      "placement": "「皇室文化」に関わる検討対象と根拠を一覧で公開しています」節の導入文直後",
+      "stored_in_repository": false,
+      "note": "note配信画像ではなく採用原本の情報"
+    },
+    {
+      "source_filename": "A004_本文中整理図2_残し方の三層と憲法上の境界_v1.1_2400x1800.png",
+      "sha256": "63a94379a502bd8accd586e1bd8d897d894e3a62719bc5d63ff91368ae9ac9c3",
+      "width": 2400,
+      "height": 1800,
+      "format": "PNG",
+      "color_mode": "RGB",
+      "caption": "三つの残し方と、その組み合わせ",
+      "placement": "三つの残し方を導入する段落の直後",
+      "stored_in_repository": false,
+      "note": "note配信画像ではなく採用原本の情報"
+    }
+  ],
+  "source": "published_note_page_verified_against_approved_body"
+}
